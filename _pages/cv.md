@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Computer Engineering, University of Florida, 2023
+* B.Sc. in Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology, 2017
+#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021- Present: Graduate Research Assistant -University of Florida
+  * Developing a Watermarking technique for hardware trojan detection.
+  * Platform level Maliciousness Estimation \& Measurement from IP level maliciousness score.
+  #* Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
   * Github University
