@@ -11,22 +11,21 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Computer Engineering, University of Florida, 2023
+* M.Sc. in Computer Engineering, University of Florida, 2023 (Expected)
 * B.Sc. in Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology, 2017
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
 * Fall 2021- Present: Graduate Research Assistant -University of Florida
   * Developing a Watermarking technique for hardware trojan detection.
-  * Platform level Maliciousness Estimation \& Measurement from IP level maliciousness score.
-  #* Supervisor: Professor Git
-
+  * Platform level Maliciousness Estimation & Measurement from IP level maliciousness score.
+  ---* Supervisor: Professor Git
+---
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+---
 Skills
 ======
 * Skill 1
