@@ -16,16 +16,18 @@ Education
 
 Work experience
 ======
-* Fall 2021- Present: Graduate Research Assistant -University of Florida
+* August 2021- Present: Graduate Research Assistant- University of Florida
   * Developing a Watermarking technique for hardware trojan detection.
   * Platform level maliciousness score estimation & measurement from IP level maliciousness score.
-  [comment]: <> * test
-<!---
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
--->
+ 
+* November 2018- August 2021: IP design and verification engineer- BJIT Inc.
+  * RTL design \& developing behavioral model using Verilog.
+  * Random verification environment and verification Scenario creation using System Verilog and UVM to verify an IP.
+
+* November 2017- June 2018: RTL design and verification engineer- Neural Semiconductor limited
+  * Worked with Synopsis Design Constraint, Timing exceptions and Physical Design Essentials.
+  * Random layered verification environment creation using System Verilog.
+
 Skills
 ======
 * Skill 1
