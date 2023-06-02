@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Stark effect on InP-InGaAs separate absorption and multiplication avalanche photodiodes."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/paper-1
+excerpt: 'We present electro-optical effects on Separate Absorption and Multiplication (SAM) Avalanche Photodiodes (APDs) with the presence of an external electric field. This effect is the well-known Stark Effect. We present optical shifts of SAM APDs with electric field variation and find that photons with lower energy can be absorbed to generate high photocurrent if Stark Effect is present. We demonstrate the change in absorption coefficient and exciton peak behavior with Stark Effect. We also present Stark Effect on photocurrent of SAM APDs by showing variation of responsivity. We use an in-house built Poisson-Schrodinger solver to simulate InP-InGaAs SAM APDs, as example. Thus, in this paper, we introduce a novel way to control and improve photocurrent of SAM APDs that can be extended to other APDs and used in optical modulators.'
+date: 2016
+venue: 'International Conference on Informatics, Electronics and Vision (ICIEV)'
+paperurl: 'http://academicpages.github.io/files/stark.pdf'
+citation: 'Aadit, Muhammad Navid Anjum and Khan, Ummay Sumaya. (2016). &quot;Stark effect on InP-InGaAs separate absorption and multiplication avalanche photodiodes.&quot; <i>International Conference on Informatics, Electronics and Vision (ICIEV)</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We present electro-optical effects on Separate Absorption and Multiplication (SAM) Avalanche Photodiodes (APDs) with the presence of an external electric field. This effect is the well-known Stark Effect. We present optical shifts of SAM APDs with electric field variation and find that photons with lower energy can be absorbed to generate high photocurrent if Stark Effect is present. We demonstrate the change in absorption coefficient and exciton peak behavior with Stark Effect. We also present Stark Effect on photocurrent of SAM APDs by showing variation of responsivity. We use an in-house built Poisson-Schrodinger solver to simulate InP-InGaAs SAM APDs, as example. Thus, in this paper, we introduce a novel way to control and improve photocurrent of SAM APDs that can be extended to other APDs and used in optical modulators.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/stark.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Aadit, Muhammad Navid Anjum and Khan, Ummay Sumaya. (2016). "Stark effect on InP-InGaAs separate absorption and multiplication avalanche photodiodes." <i>International Conference on Informatics, Electronics and Vision (ICIEV)</i>.
